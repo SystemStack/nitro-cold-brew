@@ -1,8 +1,8 @@
 {
   "author": "Levi Broadnax, James Masino, Winston Palace",
   "dependencies": {
-    "@react-three/drei": "^9.105.4",
-    "@react-three/fiber": "^8.16.2",
+    "@react-three/drei": "^9.107.0",
+    "@react-three/fiber": "^8.16.8",
     "@uidotdev/usehooks": "^2.4.1",
     "@vitejs/plugin-react": "^4.2.1",
     "just-extend": "^6.2.0",
